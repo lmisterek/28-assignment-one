@@ -4,12 +4,12 @@ body {
         /*font-size: 48px;*/
 }
 
-btn.btn-secondary .dropdown {
+btn.btn-secondary {
   position: absolute;
   bottom: 16px;
 }
 
-.dropdown {
+div.dropdown {
   position: absolute;
   bottom: 16px;
 }
