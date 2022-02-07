@@ -4,6 +4,11 @@ body {
         /*font-size: 48px;*/
 }
 
+btn {
+  position: relative;
+  bottom: 30px;	
+}
+
 .navbar {
 	
 	font-family: 'Tangerine', serif;
