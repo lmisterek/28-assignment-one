@@ -1,10 +1,10 @@
 body {
-        font-family: 'Inconsolata', serif;
-        background-color: #F3FFFC;
-        /*font-size: 48px;*/
+  font-family: 'Inconsolata', serif;
+  background-color: #F3FFFC;
+  
 }
 
-.btn.btn-secondary {
+div.btn.btn-secondary {
   position: absolute;
   bottom: 16px;
 }
