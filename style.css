@@ -9,6 +9,11 @@ btn.btn-secondary .dropdown {
   bottom: 16px;
 }
 
+.dropdown {
+  position: absolute;
+  bottom: 16px;
+}
+
 .navbar {
 	
 	font-family: 'Tangerine', serif;
