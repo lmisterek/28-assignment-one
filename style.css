@@ -10,11 +10,13 @@ form {
 a.btn.btn-secondary {
   position: absolute;
   bottom: 16px;
+  margin-bottom: 30px;
 }
 
 div.dropdown {
   position: absolute;
   bottom: 16px;
+  margin-bottom: 30px;
 }
 
 .navbar {	
