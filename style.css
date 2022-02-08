@@ -22,6 +22,7 @@ div.dropdown {
 .card {
   width: 20rem; 
   height: 30rem; 
+  margin:  auto;
   margin-bottom: 10px;
   margin-top: 30px;
 }
